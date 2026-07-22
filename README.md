@@ -134,7 +134,7 @@ This project provided practical experience in:
 
 ## Author
 
-**Mohammad Rahil Khan**
+**Sanika Shriram Patil**
 
 Electronics & Computer Engineering
 
